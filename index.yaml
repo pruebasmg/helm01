@@ -3,12 +3,12 @@ entries:
   qqchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-16T17:46:37.541183799Z"
+    created: "2023-01-16T18:07:03.777772689Z"
     description: A Helm chart for Kubernetes
-    digest: 05e81ba0fc8d4bfb3ff83467e40d237006c5fb105f2aa3b8578872175785a7bd
+    digest: 3c52dc2261bd38baecbbcd639ca2da1f1ddf142395a581806636fcd7e0ace9e3
     name: qqchart
     type: application
     urls:
     - charts/qqchart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-16T17:46:37.540751828Z"
+generated: "2023-01-16T18:07:03.777349686Z"
